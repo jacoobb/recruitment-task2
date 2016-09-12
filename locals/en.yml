@@ -1,0 +1,10 @@
+en:
+  activemodel:
+    errors:
+      models:
+        item:
+          attributes:
+            price:
+              not_a_number: must be number
+            name:
+              blank: can't be blank
